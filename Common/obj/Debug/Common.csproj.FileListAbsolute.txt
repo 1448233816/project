@@ -1,0 +1,5 @@
+E:\2020\EProject\Common\bin\Debug\Common.dll
+E:\2020\EProject\Common\bin\Debug\Common.pdb
+E:\2020\EProject\Common\obj\Debug\Common.dll
+E:\2020\EProject\Common\obj\Debug\Common.pdb
+E:\2020\EProject\Common\obj\Debug\Common.csprojAssemblyReference.cache

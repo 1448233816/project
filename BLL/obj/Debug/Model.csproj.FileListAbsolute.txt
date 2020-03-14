@@ -1,0 +1,5 @@
+E:\2020\EProject\BLL\bin\Debug\Model.dll
+E:\2020\EProject\BLL\bin\Debug\Model.pdb
+E:\2020\EProject\BLL\obj\Debug\Model.csprojAssemblyReference.cache
+E:\2020\EProject\BLL\obj\Debug\Model.dll
+E:\2020\EProject\BLL\obj\Debug\Model.pdb

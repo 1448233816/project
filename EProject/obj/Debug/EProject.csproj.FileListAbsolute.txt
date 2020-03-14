@@ -1,0 +1,15 @@
+E:\2020\EProject\EProject\bin\Debug\EProject.exe.config
+E:\2020\EProject\EProject\bin\Debug\EProject.exe
+E:\2020\EProject\EProject\bin\Debug\EProject.pdb
+E:\2020\EProject\EProject\bin\Debug\Common.dll
+E:\2020\EProject\EProject\bin\Debug\DAL.dll
+E:\2020\EProject\EProject\bin\Debug\IDAL.dll
+E:\2020\EProject\EProject\bin\Debug\Model.dll
+E:\2020\EProject\EProject\bin\Debug\Model.pdb
+E:\2020\EProject\EProject\bin\Debug\Common.pdb
+E:\2020\EProject\EProject\bin\Debug\DAL.pdb
+E:\2020\EProject\EProject\bin\Debug\IDAL.pdb
+E:\2020\EProject\EProject\obj\Debug\EProject.csprojAssemblyReference.cache
+E:\2020\EProject\EProject\obj\Debug\EProject.csproj.CopyComplete
+E:\2020\EProject\EProject\obj\Debug\EProject.exe
+E:\2020\EProject\EProject\obj\Debug\EProject.pdb
